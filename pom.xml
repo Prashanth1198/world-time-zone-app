@@ -35,10 +35,11 @@
 				<configuration>
 				<cloudHubDeployment>
 				<username>Prashanth_Mule</username>
+				<password>Prashanth_Mule123</password>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
+				<workerType>Micro</workerType>
 				<application>worldtimezone-service</application>
-				<password>Prashanth_Mule123</password>
 				<muleVesrion>4.3.0</muleVesrion>
 				</cloudHubDeployment>
 				</configuration>
